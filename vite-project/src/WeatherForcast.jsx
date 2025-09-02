@@ -1,4 +1,4 @@
-import './WeatherForecast.css';
+import './WeatherForcast.css';
 
 function WeatherForecast({ day, img, imgAlt, conditions, time }) {
   return (
